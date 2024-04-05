@@ -1,0 +1,17 @@
+brand,price,storage,ram,screen_size
+Apple,999,256,6,6.1
+Samsung,899,128,8,6.2
+Google,799,128,8,6.0
+OnePlus,699,256,12,6.7
+Huawei,599,128,8,6.5
+Xiaomi,499,128,8,6.4
+Oppo,399,128,8,6.5
+Vivo,349,64,6,6.3
+Realme,299,128,8,6.4
+Motorola,249,64,4,6.2
+Nokia,199,32,4,6.0
+LG,179,64,4,6.1
+Sony,149,64,4,5.8
+HTC,129,32,3,5.5
+ASUS,99,32,3,5.5
+BlackBerry,79,32,3,5.5
